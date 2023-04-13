@@ -1,4 +1,4 @@
-# IDS721-Proj4
+# IDS721-Project4
 This is my Project4 for AWS DynamoDB, SQS, S3, AWS Lambda, AWS Comprehend to build Data Engineering Pipeline
 
 ## Overview WorkFlow
