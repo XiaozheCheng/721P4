@@ -1,5 +1,5 @@
 # IDS721-Proj4
-This is my study for AWS DynamoDB, SQS, S3, AWS Lambda, AWS Comprehend to build Data Engineering Pipeline
+This is my Project4 for AWS DynamoDB, SQS, S3, AWS Lambda, AWS Comprehend to build Data Engineering Pipeline
 
 ## Overview WorkFlow
 
